@@ -1,5 +1,5 @@
 {
-  "name": "caterva-backend",
+  "name": "boilerplate-react-express",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gbrmgls/caterva-backend.git"
+    "url": "git+https://github.com/gbrmgls/boilerplate-react-express.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gbrmgls/caterva-backend/issues"
+    "url": "https://github.com/gbrmgls/boilerplate-react-express/issues"
   },
-  "homepage": "https://github.com/gbrmgls/caterva-backend#readme",
+  "homepage": "https://github.com/gbrmgls/boilerplate-react-express#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
